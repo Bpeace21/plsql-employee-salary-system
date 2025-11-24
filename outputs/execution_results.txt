@@ -1,0 +1,27 @@
+=== PL/SQL COLLECTIONS AND RECORDS DEMONSTRATION ===
+✓ VARRAY initialized with 3 elements
+✓ Associative Array initialized with 3 elements
+
+--- Processing Employees with GOTO ---
+Regular: John Doe - $5000
+Regular: Jane Smith - $6000
+Using GOTO for senior employee
+Senior: Charlie Wilson - $7000 + $1000 bonus
+
+--- Results ---
+Total Employees: 3
+Total Payroll: $19000
+Average Salary: $6333.33
+
+--- Record Demonstration ---
+Table-based Record: John Doe
+User-defined Record: John Doe
+Salary History Entries: 2
+
+=== PROJECT COMPLETED SUCCESSFULLY ===
+✓ VARRAY Collections
+✓ Nested Table Collections
+✓ Associative Array Collections
+✓ Table-based Records
+✓ User-defined Records
+✓ GOTO Statements
