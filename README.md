@@ -11,7 +11,7 @@ A comprehensive **Oracle PL/SQL** project demonstrating advanced database progra
 - [Features](#-features)
 - [Technologies](#-Technologies)
 - [Project Structure](#-project-structure)
-- [Installation](#-installation & Setup)
+- [Installation](#-installation)
 - [Usage](#-usage)
 - [Output](#-output)
 - [Documentation](#-documentation)
